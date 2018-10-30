@@ -63,7 +63,7 @@ Binaries
 You can use available binaries if you don't want to build.
 Check them into [relasT](https://github.com/arasT/relasT) depot, or use the links bellow:
    * [Linux x64](https://github.com/arasT/relasT/raw/master/Go/UsedSpace/Linux/x64/UsedSpace-Linux-x64-0.1.zip) (compiled on Ubuntu) 
-   * [Mac x64](https://github.com/arasT/relasT/raw/master/Go/UsedSpace/Mac/x64/UsedSpace-Mac-x64-0.1.zip)  
+   * [Mac OS X x64](https://github.com/arasT/relasT/raw/master/Go/UsedSpace/Mac/x64/UsedSpace-Mac-x64-0.1.zip)  
 
 Keyboard shortcuts
 ---
