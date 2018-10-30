@@ -22,7 +22,7 @@ It uses:
 
 Clone or Download this repository.
 ```
-git clone https://github.com/arasT/Manaraka
+git clone https://github.com/arasT/UsedSpace
 ```
 Extract the archive and move into it.
 ```
