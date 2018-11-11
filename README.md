@@ -3,7 +3,7 @@ UsedSpace
 
 Console user interface to check space used by files and folders into your disk.
 
-Screeshoots
+Screenshots
 ---
 <img src="./screenshoots/UsedSpace_main-page.png" alt="UsedSpace main page" width="800">
 <img src="./screenshoots/UsedSpace_properties.png" alt="Processes" width="800">
@@ -55,14 +55,14 @@ You can start the executable using its name following by a directory path to sca
 ```
 Or without any path, current directory will be scanned
 ```
-./UsedSpace 
+./UsedSpace
 ```
 
 Binaries
 ---
 You can use available binaries if you don't want to build.
 Check them into [relasT](https://github.com/arasT/relasT) depot, or use the links bellow:
-   * [Linux x64](https://github.com/arasT/relasT/raw/master/Go/UsedSpace/Linux/x64/UsedSpace-Linux-x64-0.1.zip) (compiled on Ubuntu) 
+   * [Linux x64](https://github.com/arasT/relasT/raw/master/Go/UsedSpace/Linux/x64/UsedSpace-Linux-x64-0.1.zip) (compiled on Ubuntu)
    * [Mac OS X x64](https://github.com/arasT/relasT/raw/master/Go/UsedSpace/Mac/x64/UsedSpace-Mac-x64-0.1.zip)  
 
 Keyboard shortcuts
